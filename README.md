@@ -8,4 +8,9 @@ Execute the following commands to run the sample. A browser window pops up with 
 ```
 npm install
 npm start
+
+For Webpack usage
+npm run build
+npm run start
+localhost:8080
 ```
