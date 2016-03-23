@@ -1,10 +1,10 @@
 node_modules
-!webpack.config.js
 *.js
 *.log
 *.map
 *.d.ts
 !app/resources/*.js
+!webpack.config.js
 .idea/
 *.DS_Store
 typings
