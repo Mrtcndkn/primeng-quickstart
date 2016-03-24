@@ -5,6 +5,7 @@ node_modules
 *.d.ts
 !app/resources/*.js
 !webpack.config.js
+!gulpfile.js
 .idea/
 *.DS_Store
 typings
