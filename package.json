@@ -4,7 +4,8 @@
   "scripts": {
     "postinstall": "npm run typings install",
     "build": "webpack",
-    "start": "webpack-dev-server"
+    "start": "webpack-dev-server",
+    "test":"lite-server"
   },
   "license": "ISC",
   "dependencies": {
