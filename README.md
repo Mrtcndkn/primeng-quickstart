@@ -3,7 +3,7 @@ Sample application to provide an example setup of an Angular2 project with Prime
 
 ![alt text](http://www.primefaces.org/images/primeng.png "PrimeNG")
 
-Execute the following commands to run the sample. You can open browser window through the http:\\\\localhost:8080 address.
+Execute the following commands to run the sample. You can open browser window through the http:\\\\localhost:3000 address.
 
 ```
 npm install
